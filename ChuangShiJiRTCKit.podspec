@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "my text to upload ChuangShiJiRTCKit."
 
   spec.description  = <<-DESC
-                        this is my first framework
+                        this is my first framework of ChuangShiJiRTCKit
                    DESC
 
   spec.homepage     = "https://github.com/Wuhao/ChuangShiJiRTCKit.git"
